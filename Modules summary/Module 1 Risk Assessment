@@ -1,0 +1,23 @@
+Risk Assessment Module Summary
+
+This module covered the complete risk assessment process used in information security and compliance work. It began with identifying information assets and understanding why asset ownership, classification, and a proper asset register are essential for security management. 
+Assets were studied in terms of hardware, software, data, people, and business processes, along with classification levels such as public, internal, confidential, and restricted.
+
+The next chapters focused on identifying threats and vulnerabilities. 
+Threats were studied by source, motivation, and capability, along with major categories such as human, natural, technical, and environmental threats. 
+Vulnerabilities were examined as weaknesses in systems, processes, or controls, and the role of CVE, CVSS, automated scanning, manual testing, and penetration testing was understood as part of proper vulnerability assessment.
+
+The module then moved into likelihood and impact analysis. 
+Likelihood was learned as the probability that a threat will exploit a vulnerability, considering threat capability, motivation, opportunity, and existing controls. 
+Impact was studied as the possible consequence of a risk event across financial, operational, reputational, legal, and safety dimensions. 
+Both qualitative and quantitative approaches were reviewed, including the use of ALE, SLE, and ARO for numerical estimation of loss.
+
+After that, risk scoring and risk matrix concepts were covered. 
+Inherent risk and residual risk were distinguished, and the importance of combining likelihood and impact into a structured score was learned for prioritizing risks. 
+Risk appetite comparison was then used to determine whether a risk could be accepted or needed treatment.
+
+The final chapters covered risk treatment, documentation, and monitoring. 
+Risk treatment options such as mitigate, avoid, transfer, and accept were reviewed as practical responses to unacceptable risk. 
+The module concluded with the importance of documenting risks, maintaining a risk register, assigning ownership, and continuously monitoring risks so that changes in the threat environment or asset landscape can be managed effectively.
+
+Overall, this module built a strong foundation in practical risk assessment and provided the conceptual base needed for later compliance audit and governance learning.
