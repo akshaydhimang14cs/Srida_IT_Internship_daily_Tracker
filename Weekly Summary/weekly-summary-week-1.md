@@ -52,7 +52,8 @@ Completed Module 1.
 Topics covered:
 - Document and monitor
 - Understand risk registers, ownership, treatment tracking, and continuous review
-
+- Completed the module and received completion certificate.
+  
 ### 08 June 2026
 Started Module 2: Compliance Audit Essentials.
 
@@ -87,7 +88,7 @@ This module built a complete understanding of the risk assessment lifecycle. The
 This module was started during the second part of the week and focused on the basics of compliance auditing. So far, it covered compliance audit definitions, audit planning, scope setting, audit program concepts, evidence collection methods, and introductory ISO 27001 compliance auditing. The module is still in progress.
 
 ## Weekly Outcome
-By the end of this 7-day period, Module 1 was completed and Module 2 was started successfully. The week established a strong foundation in both risk assessment and compliance audit concepts, moving from identifying and evaluating risks to understanding how audit processes verify controls and compliance in practice.
+By the end of this 7-day period, Module 1 was completed, the completion certificate was obtained, and Module 2 was started successfully. The week established a strong foundation in both risk assessment and compliance audit concepts, moving from identifying and evaluating risks to understanding how audit processes verify controls and compliance in practice.
 
 ## Status
 Week 1 completed successfully.
