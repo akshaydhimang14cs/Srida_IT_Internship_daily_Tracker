@@ -25,6 +25,7 @@ The internship currently includes the following modules:
 ## Repository Structure
 ```text
 shrida_it_internship_dialy_tracker/
+├── Module Completion Certificates/
 ├── README.md
 ├── daily-log/
 ├── weekly-summary/
